@@ -1,5 +1,5 @@
 RENCANA BACKEND
 - Belajar java
-  - Java dasar
+  - if else
 - Belajar php
-  - Php dasar
+  - if else
