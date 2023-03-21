@@ -1,5 +1,7 @@
 RENCANA BACKEND
 - Belajar java
   - Java dasar
+  - variabel dan perulangan
 - Belajar php
   - Php dasar
+  - variabel dan perulangan
